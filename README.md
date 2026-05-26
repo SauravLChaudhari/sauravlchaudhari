@@ -108,7 +108,7 @@ S = (p/n) · Σᵢ [ (xᵢxᵢᵀ) / (xᵢᵀ S⁻¹ xᵢ) ]   ←  fixed-point 
 
 ## 📄 Publications
 
-> 🔗 Complete list: [ORCID](https://orcid.org/0000-0003-1191-9015) · [ResearchGate](https://www.researchgate.net/profile/Saurav-Chaudhari) · [SSRN](https://ssrn.com/author=saurav-chaudhari)
+
 
 ---
 
