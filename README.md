@@ -1,5 +1,5 @@
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                    SAURAV L. CHAUDHARI — README                   -->
+<!--                    SAURAV CHAUDHARI — README                   -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -11,7 +11,7 @@
 ╚═══════════════════════════════════════════════════════════════════╝
 ```
 
-# Saurav L. Chaudhari
+# Saurav Chaudhari
 
 **Researcher · Signal Processing → Quantitative Finance**
 
