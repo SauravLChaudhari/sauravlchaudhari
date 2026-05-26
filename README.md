@@ -15,9 +15,7 @@
 
 **Researcher · Signal Processing → Quantitative Finance**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sauravlchaudhari)
-[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-1191-9015)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat-square&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Saurav-Chaudhari)
+
 ![Location](https://img.shields.io/badge/📍_Pune,_India-2d2d2d?style=flat-square)
 ![Patent](https://img.shields.io/badge/🏛_Patent-202521106451-8B5CF6?style=flat-square)
 
