@@ -15,7 +15,6 @@
 
 **Researcher · Signal Processing → Quantitative Finance**
 
-
 ![Location](https://img.shields.io/badge/📍_Pune,_India-2d2d2d?style=flat-square)
 ![Patent](https://img.shields.io/badge/🏛_Patent-202521106451-8B5CF6?style=flat-square)
 
@@ -99,14 +98,67 @@ S = (p/n) · Σᵢ [ (xᵢxᵢᵀ) / (xᵢᵀ S⁻¹ xᵢ) ]   ←  fixed-point 
 
 ---
 
+## 🎓 Education
+
+| Degree | Field | Notes |
+|--------|-------|-------|
+| **BBA** | Investment Banking | Formal grounding in capital markets, valuation, and structured finance |
+
+---
+
 ## 📄 Publications
 
-| Year | Title | Venue |
-|------|-------|-------|
-| 2025 | **3D Room Mapping Using RF Signal Analysis: A Novel Approach to Spatial Reconstruction Without Camera-Based Systems** *(with S. P. Gawande)* | Preprint / HTNP Industries |
-| — | **Binomial Distribution Theorem in Portfolio Rebalancing: A Model for Outperforming the Nifty Index** | — |
+> 🔗 Complete list: [ORCID](https://orcid.org/0000-0003-1191-9015) · [ResearchGate](https://www.researchgate.net/profile/Saurav-Chaudhari) · [SSRN](https://ssrn.com/author=saurav-chaudhari)
 
-> 🔗 Full list on [ORCID](https://orcid.org/0000-0003-1191-9015) · [ResearchGate](https://www.researchgate.net/profile/Saurav-Chaudhari)
+---
+
+### 💹 Quantitative Finance & Investment Banking
+
+| Year | Title | DOI / Link |
+|------|-------|------------|
+| 2024 | **Enhancing Portfolio Rebalancing Efficiency Using Binomial Distribution: A Case Study of Beating the Nifty Index with Good CAGR** | [osf.io/u5q97](https://osf.io/u5q97_v1) |
+| 2025 | **Artificial Intelligence in Investment Banking: Transforming Operations and Client Services** | [SSRN 5130872](https://doi.org/10.2139/ssrn.5130872) |
+| 2025 | **The SPAC Boom and Bust: An Analysis of Investment Banking Strategies and Investor Returns** | [SSRN 5130749](https://doi.org/10.2139/ssrn.5130749) |
+| 2026 | **WiFi as Infrastructure: Valuation Impact of CSI Sensing on Smart Buildings and REIT Portfolios** | [SSRN 6130626](https://doi.org/10.2139/ssrn.6130626) |
+| 2026 | **Ambient Intelligence in Healthcare: Investment Returns and Business Models of CSI-Based Monitoring** | [SSRN 6130726](https://doi.org/10.2139/ssrn.6130726) |
+| 2026 | **Beyond Cameras: The Economics of Privacy-Preserving Security Systems Using WiFi CSI** | [SSRN 6130686](https://doi.org/10.2139/ssrn.6130686) |
+
+---
+
+### 📡 RF Sensing & Wi-Fi CSI Signal Processing
+
+<!-- Core papers most directly connected to the quant repos -->
+
+| Year | Title | DOI / Link |
+|------|-------|------------|
+| 2025 | **3D Room Mapping Using RF Signal Analysis: A Novel Approach to Spatial Reconstruction Without Camera-Based Systems** *(with S. P. Gawande)* | [ResearchGate](https://www.researchgate.net/publication/390734920) |
+| 2026 | **Adaptive Multipath Interference Cancellation in Wi-Fi CSI-Based Cardiorespiratory Monitoring: A Kalman Filter Approach with Dynamic Subcarrier Selection** *(with K. Pise, D. Fukate, S. Gawande)* | [figshare 31034056](https://doi.org/10.6084/m9.figshare.31034056.v1) |
+| 2026 | **Wavelet-Domain Respiratory-Cardiac Decoupling for Wi-Fi CSI Vital Sign Monitoring: A Multi-Resolution Analysis Framework** *(with K. Pise, D. Fukate, S. Gawande)* | [Research Square](https://doi.org/10.21203/rs.3.rs-8548485/v1) |
+| 2026 | **Deep Wavelet Scattering Networks for Robust Wi-Fi CSI Vital Sign Separation Under Multipath Interference and Non-Stationary Dynamics** *(with K. Pise, D. Fukate, S. Gawande)* | [Preprints 2026010835](https://doi.org/10.20944/preprints202601.0835.v1) |
+
+<details>
+<summary><b>📂 Show all CSI sensing papers (5 more)</b></summary>
+
+<br/>
+
+| Year | Title | DOI / Link |
+|------|-------|------------|
+| 2026 | **Extracting Heart-Rate Variability Indicators from Wi-Fi CSI: A Pilot Correlation Study** *(with K. Pise, D. Fukate, S. Gawande)* | [Preprints 2026010518](https://doi.org/10.20944/preprints202601.0518.v1) |
+| 2026 | **Wi-Fi CSI Thermal Tomography with ESP32 Arrays: Contactless 2D Indoor Temperature Field Mapping for Smart Buildings** *(with K. Pise, D. Fukate, S. Gawande)* | [Preprints 2026011934](https://doi.org/10.20944/preprints202601.1934.v1) |
+| 2026 | **Room-Level Occupancy Estimation via Wi-Fi CSI on ESP32 Nodes: A Multi-Zone Experimental Study** *(with K. Pise, D. Fukate, S. Gawande)* | [Preprints 2026012295](https://doi.org/10.20944/preprints202601.2295.v1) |
+| 2026 | **Device-Free Indoor Localization with ESP32 Wi-Fi CSI Fingerprints: Grid-Based Regression, Feature Modeling, and Multi-Link Experiments** *(with K. Pise, D. Fukate, S. Gawande)* | [Preprints 2026012378](https://doi.org/10.20944/preprints202601.2378.v1) |
+| 2026 | **Device-Free Hand Gesture Recognition with ESP32 Wi-Fi CSI: Formal Doppler Modeling and Lightweight Deep Learning** *(with K. Pise, D. Fukate, S. Gawande)* | [Preprints 2026020018](https://doi.org/10.20944/preprints202602.0018.v1) |
+| 2026 | **Joint Contactless Temperature, Humidity, and Occupancy Sensing via Wi-Fi CSI on ESP32 Nodes** *(with K. Pise, D. Fukate, S. Gawande)* | [Research Square](https://doi.org/10.21203/rs.3.rs-8690669/v1) |
+
+</details>
+
+---
+
+### 🤖 Models
+
+| Title | Platform | DOI |
+|-------|----------|-----|
+| **csi_multitask_model** — Multi-task learning model for Wi-Fi CSI sensing | Kaggle | [10.34740/KAGGLE/M/625684](https://doi.org/10.34740/KAGGLE/M/625684) |
 
 ---
 
