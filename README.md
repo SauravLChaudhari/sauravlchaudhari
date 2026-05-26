@@ -139,8 +139,22 @@ S = (p/n) · Σᵢ [ (xᵢxᵢᵀ) / (xᵢᵀ S⁻¹ xᵢ) ]   ←  fixed-point 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SauravLChaudhari&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SauravLChaudhari&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+<!-- Streak stats — demolab is far more reliable than vercel deployments -->
+<img src="https://streak-stats.demolab.com/?user=SauravLChaudhari&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+
+<br/><br/>
+
+<!-- Key metrics via shields.io dynamic badges — pulls live from GitHub API, never rate-limited -->
+![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FSauravLChaudhari&query=%24.public_repos&label=Public%20Repos&style=flat-square&color=1e90ff)
+![Followers](https://img.shields.io/github/followers/SauravLChaudhari?style=flat-square&label=Followers&color=6366f1)
+![Stars](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FSauravLChaudhari&query=%24.public_gists&label=Gists&style=flat-square&color=10b981)
+[![MUSIC stars](https://img.shields.io/github/stars/SauravLChaudhari/MUSIC-for-Lead-Lag-Detection?style=flat-square&label=⭐%20MUSIC-Lead-Lag&color=f59e0b)](https://github.com/SauravLChaudhari/MUSIC-for-Lead-Lag-Detection)
+[![PLL stars](https://img.shields.io/github/stars/SauravLChaudhari/pll-market-microstructure?style=flat-square&label=⭐%20PLL-Microstructure&color=f59e0b)](https://github.com/SauravLChaudhari/pll-market-microstructure)
+[![Tyler stars](https://img.shields.io/github/stars/SauravLChaudhari/tyler-covariance-estimation?style=flat-square&label=⭐%20Tyler-Covariance&color=f59e0b)](https://github.com/SauravLChaudhari/tyler-covariance-estimation)
+
+<!-- Top languages via profile-summary-cards — separate deployment, independent uptime -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SauravLChaudhari&theme=tokyonight" height="165" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SauravLChaudhari&theme=tokyonight&utcOffset=5.5" height="165" />
 
 </div>
 
