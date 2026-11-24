@@ -164,9 +164,9 @@ S = (p/n) · Σᵢ [ (xᵢxᵢᵀ) / (xᵢᵀ S⁻¹ xᵢ) ]   ←  fixed-point 
 
 ## 🏛️ Patent
 
-| Application No. | Status | Field |
+| Application Title. | Status | Field |
 |----------------|--------|-------|
-| **202521106451** | Published · India | Signal Processing / RF Sensing |
+| **A CONTACTLESS VITAL SIGN MONITORING SYSTEM AND A METHOD THEREOF** | Published · India | Signal Processing / RF Sensing |
 
 ---
 
